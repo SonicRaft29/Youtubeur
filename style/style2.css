@@ -4,7 +4,7 @@ html {
 }
 @font-face { font-family: Minecraft; src: url('MINECRAFT.TTF'); }
 h1 {
-  font-family: Minecraft;
+  font-family: Minecraft, sans-serif;
   font-size: 50px;
   text-align: center;
   color: red;
