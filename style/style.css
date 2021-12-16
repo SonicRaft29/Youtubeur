@@ -14,11 +14,11 @@ img {
 }
 h2 {
   font-size: 30px;
-  color: white;
+  color: rgb(255, 255, 255);
 }
 h3 {
   font-size: 25px;
-  color: white;
+  color: rgb(255, 255, 255);
 }
 li {
   font-size: 20px;
@@ -29,11 +29,11 @@ a {
 }
 p {
   font-size: 20px;
-  color: white;
+  color: rgb(255, 255, 255);
 }
 h4 {
   font-size: 25px;
-  color: white;
+  color: rgb(255, 255, 255);
 }
 body {
   width: 1000px;
