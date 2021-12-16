@@ -2,7 +2,7 @@ html {
   background-image: url('https://lignea.fr/wp-content/uploads/2021/11/f5b76-16381723569093-1920.jpg');
   background-position: center;
 }
-@font-face { font-family: Minecraft; src: url('MINECRAFT.ttf'); }
+@font-face { font-family: Minecraft; src: url('MINECRAFT.TTF'); }
 h1 {
   font-size: 50px;
   text-align: center;
