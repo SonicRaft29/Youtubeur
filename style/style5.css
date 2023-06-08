@@ -1,6 +1,7 @@
 html {
   background-image: url('https://t.ctcdn.com.br/o49IsJ7sSXBxmtrCQucNcRbda7Y=/1400x788/smart/i512576.png');
   background-position: center;
+  background-size: cover;
 }
 h1 {
   font-size: 50px;
